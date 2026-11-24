@@ -1,3 +1,5 @@
+sudo apt install xdotool
+clear
 r=0
 clear
 echo "klik 1 rood teeworld"

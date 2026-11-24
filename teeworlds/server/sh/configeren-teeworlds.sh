@@ -22,6 +22,8 @@ map=${input4:-$map}
 cat >> config.cfg << EOF
 sv_name "Lan Gaming"
 sv_port 8303
+sv_tournament_mode 1
+sv_warmup 0
 sv_max_clients $clients
 sv_gametype $gametype
 sv_map $map

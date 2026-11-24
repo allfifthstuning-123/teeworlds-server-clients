@@ -1,4 +1,4 @@
-sudo apt install xdotool
+sudo apt install treeworlds xdotool
 clear
 r=0
 clear

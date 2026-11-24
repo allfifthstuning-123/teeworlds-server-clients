@@ -14,3 +14,5 @@ if [ $r = 2 ]; then
 cd ./sh
 bash teeworlds_blue.sh
 fi
+cd ..
+bash main.sh

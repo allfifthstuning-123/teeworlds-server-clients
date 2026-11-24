@@ -1,9 +1,9 @@
 r=0
-read r
+
 
 echo "klik 1 om te installeren"
 echo "klik 2 om te configeren"
-
+read r
 if [ $r = 1 ];then
 cd ./sh
 bash installer-teeworlds.sh
